@@ -4,3 +4,9 @@ body {
     font-family: 'Courier New', Courier, monospace sans-serif;
     border: 1px solid grey;
 }
+
+#cabecera {
+        background: #a8fce7 ;
+        color: grey;
+        padding: 1rem;
+}
